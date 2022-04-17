@@ -1,3 +1,3 @@
 # Dual_Quaternion_Path_Planning_for_-a_-UR10_Manipulator
-This project gets the inverse kinematics (joint space) for a UR10 manipulator, based on a group of cartesian coordinates in the cartesian space. The cartesian coordinates are gotten by using a dual quaternion interpolation, or also known as Sclerp (Screw Linear Interpolation).
+This project gets the inverse kinematics (joint space) for a UR10 manipulator, based on a group of cartesian coordinates in the cartesian space. The cartesian coordinates are gotten by using a dual quaternion interpolation, or also known as Sclerp (Screw Linear Interpolation). Also, you will be able to compare the Sclerp method with a quintic interpolation, which was not developed entirely by the owner of this repository, but by the Prof. Peter Corke. You can choose the "No RoboDK" file in case you did not want to have a simulation in the RoboDK software.
 Check the .docx file for more information.
